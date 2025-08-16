@@ -58,4 +58,3 @@ streamlit run app.py
 6 .env file (optional but recommended): You may create a .env file in the root directory to manage environment variables (e.g., for future enhancements like API keys or configuration).
 
 
-
